@@ -1,16 +1,26 @@
-# akademik_app
+# Aplikasi Akademik
 
-A new Flutter project.
+Aplikasi Akademik adalah sebuah proyek yang dibangun menggunakan [Flutter](https://flutter.dev) dan ditulis dalam bahasa [Dart](https://dart.dev). Aplikasi ini dirancang untuk memenuhi kebutuhan akademik dan dapat disesuaikan dengan API backend masing-masing.
 
-## Getting Started
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-This project is a starting point for a Flutter application.
+## Fitur
 
-A few resources to get you started if this is your first Flutter project:
+(Tulis daftar fitur Aplikasi Akademik Anda di sini)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Cara Menggunakan
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Berikut langkah-langkah untuk menjalankan Aplikasi Akademik:
+
+### Prasyarat
+
+Pastikan Anda telah menginstal Flutter di sistem Anda. Jika belum, Anda dapat mengikuti panduan penginstalan di [situs resmi Flutter](https://flutter.dev/docs/get-started/install).
+
+### Kloning Repositori
+
+Klon repositori ke sistem lokal Anda dengan perintah berikut:
+
+```bash
+git clone [URL Repositori Aplikasi Akademik Anda]
+cd [Nama Folder Aplikasi Akademik]
